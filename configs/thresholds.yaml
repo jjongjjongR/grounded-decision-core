@@ -1,0 +1,4 @@
+# configs/thresholds.yaml
+### abstain 기준값을 넣는 설정 파일
+
+consistency_score_threshold: 0.60

@@ -1,0 +1,5 @@
+// data/samples/day2_input_examples.jsonl
+//// 입력 예시 데이터를 몇 개 저장
+
+{"scene_id":"scene_001","instruction":"책 왼쪽의 파란 컵을 집어","candidate_objects":[{"obj_id":"cup_blue_left_01","category":"cup","color":"blue","bbox":[12,35,88,140],"visibility":"clear","notes":"left_of_book"},{"obj_id":"bottle_red_right_01","category":"bottle","color":"red","bbox":[120,30,180,150],"visibility":"clear","notes":"right_of_book"},{"obj_id":"book_center_01","category":"book","color":"white","bbox":[70,60,130,160],"visibility":"clear","notes":"center"}]}
+{"scene_id":"scene_002","instruction":"접시 뒤의 병을 잡아","candidate_objects":[{"obj_id":"plate_front_01","category":"plate","color":"white","bbox":[30,90,100,170],"visibility":"clear","notes":"front"},{"obj_id":"bottle_back_01","category":"bottle","color":"green","bbox":[50,40,110,130],"visibility":"partial","notes":"behind_plate"},{"obj_id":"cup_right_01","category":"cup","color":"blue","bbox":[130,60,190,150],"visibility":"clear","notes":"right"}]}

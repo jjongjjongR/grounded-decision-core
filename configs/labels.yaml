@@ -1,0 +1,7 @@
+# configs/labels.yaml
+### 라벨 목록을 모아두는 설정 파일
+
+subgoal_labels:
+  - PREPARE_PICK
+  - REFINE_VIEW
+  - ABSTAIN_DECISION
