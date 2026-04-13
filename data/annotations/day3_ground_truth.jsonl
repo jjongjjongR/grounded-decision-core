@@ -1,0 +1,5 @@
+{"scene_id":"scene_101","gt_target_obj_id":"cup_blue_left_01","gt_target_bbox":[12,35,88,140],"gt_subgoal_label":"PREPARE_PICK","gt_should_abstain":false}
+{"scene_id":"scene_102","gt_target_obj_id":"bottle_back_01","gt_target_bbox":[50,40,110,130],"gt_subgoal_label":"REFINE_VIEW","gt_should_abstain":false}
+{"scene_id":"scene_103","gt_target_obj_id":"cup_blue_left_front_01","gt_target_bbox":[18,48,82,142],"gt_subgoal_label":"REFINE_VIEW","gt_should_abstain":false}
+{"scene_id":"scene_104","gt_target_obj_id":"","gt_target_bbox":[],"gt_subgoal_label":"ABSTAIN_DECISION","gt_should_abstain":true}
+{"scene_id":"scene_105","gt_target_obj_id":"spoon_on_plate_01","gt_target_bbox":[78,88,132,122],"gt_subgoal_label":"PREPARE_PICK","gt_should_abstain":false}

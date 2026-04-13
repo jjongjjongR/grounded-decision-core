@@ -1,5 +1,2 @@
-// data/samples/day2_output_examples.jsonl
-//// 출력 예시 데이터를 몇 개 저장
-
 {"pred_target_obj_id":"cup_blue_left_01","pred_subgoal_label":"PREPARE_PICK","consistency_score":0.86,"abstain":false,"reason":"The blue cup to the left of the book is clearly visible and matches the instruction."}
 {"pred_target_obj_id":"bottle_back_01","pred_subgoal_label":"REFINE_VIEW","consistency_score":0.54,"abstain":true,"reason":"The bottle seems to match the instruction but it is partially occluded behind the plate."}
