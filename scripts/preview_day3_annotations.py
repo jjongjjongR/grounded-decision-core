@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from src.labeling.day3_loader import load_day3_annotations, validate_day3_data
+from labeling.day3_loader import load_day3_annotations, validate_day3_data
 
 
 def main() -> None:
